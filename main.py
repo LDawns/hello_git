@@ -1,4 +1,4 @@
 def say():
-    print("hello git.")
+    return "hello git."
 def bye():
-    print("bye git.")
+    return "bye git."
